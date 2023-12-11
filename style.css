@@ -1,0 +1,31 @@
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+body{
+    background-color: red;
+}
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:italic;
+    font-weight: bold;
+}
+h4{
+    color: beige;
+}
+#camera{
+    height: 400px;
+    width: 500px;
+}
+img{
+    width: 450px;
+    border-radius: 500px;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 yellowgreen;
+}
+.column{
+    display: inline;
+    padding: 10px;
+}
